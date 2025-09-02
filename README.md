@@ -3,13 +3,16 @@ This repository is for Mendoza, Clarence's PA-1
 
 # DESCRIPTIONS ABOUT THE ORDER OF CODES USED:
 
-## First code: ALPHABET SOUP PROBLEM - Create a function that takes a string and returns a string with its letters
+## First code: ALPHABET SOUP PROBLEM:
+Create a function that takes a string and returns a string with its letters
 in alphabetical order.
 
-## Second code: EMOTICON PROBLEM - Create a function that changes specific words into emoticons. Given a sentence
+## Second code: EMOTICON PROBLEM:
+Create a function that changes specific words into emoticons. Given a sentence
 as a string, replace the words smile, grin, sad and mad with their corresponding emoticon.
 
-## Third code: UNPACKING LIST PROBLEM - Unpack the list writeyourcodehere into three variables, being first,
+## Third code: UNPACKING LIST PROBLEM:
+Unpack the list writeyourcodehere into three variables, being first,
 middle, and last, with middle being everything in between the first and last element. Then print all three
 variables.
 
